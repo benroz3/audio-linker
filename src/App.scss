@@ -11,7 +11,21 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: whitesmoke;
+  background-image: linear-gradient(
+    to right top,
+    #e5e5e5,
+    #dfdfdf,
+    #d8d8d8,
+    #d2d2d2,
+    #cccccc,
+    #c6c6c6,
+    #c1c1c1,
+    #bbbbbb,
+    #b5b5b5,
+    #aeaeae,
+    #a8a8a8,
+    #a2a2a2
+  );
 
   .app {
     background-color: black;

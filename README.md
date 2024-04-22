@@ -3,7 +3,7 @@
 
 [Demo Link]()
 
-[API Link]()
+[API Link](https://rapidapi.com/ytjar/api/youtube-mp36)
 
 ## Run Locally
 1. Create .env using the example
